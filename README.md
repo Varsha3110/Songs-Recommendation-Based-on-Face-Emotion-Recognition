@@ -1,1 +1,4 @@
 # Songs-Recommendation-Based-on-Face-Emotion-Recognition
+Music plays a very important role in our life. People used to listen music as per their mood or situation, for which they have to face the task of manually searching the music.Emotion is a strong feeling about a human’s situation or relation with others. These feelings and moods are expressed as facial expression.The goal of this project is to recommend songs based on the facial expressions of the images.
+The problem statement is to categorize each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral) and then recommends songs based on emotion category.
+This project recognizes the facial expressions of images given as input and play songs according to the emotion detected.
